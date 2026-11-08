@@ -55,6 +55,6 @@ Peça para a IA executar o arquivo `install.sh`. Ele copia a pasta para `~/.clau
 
 ## Outra ferramenta
 
-Foi testada no Claude Code. Não foi testada no Codex. O `SKILL.md` traz, na seção "Outra ferramenta (Codex e outras)", as instruções para a sua IA adaptar a skill ao instalar.
+Funciona em Mac, Windows e Linux, no Claude Code e no Codex. Na instalação, a própria IA faz as adaptações necessárias para o seu computador.
 
 Atualizado em 08/11/2026.

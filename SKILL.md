@@ -67,7 +67,5 @@ e Linux) ou Cmd+S (Mac). Isso é ela, usando o acesso dela.
 
 ## Outra ferramenta (Codex e outras)
 
-Esta skill foi testada no Claude Code. **Não foi testada no Codex.** Ao instalar em outra ferramenta, a IA da pessoa
-deve: conferir na documentação atual onde aquela ferramenta guarda skills ou instruções; copiar esta pasta para lá;
-ajustar o jeito de rodar o script; testar com uma página pública simples; e dizer à pessoa o que funcionou e o que não
-funcionou.
+Compatível com Claude Code, Codex e outras ferramentas de agentes, em Mac, Windows e Linux. Se a pessoa pedir para instalar
+fora do Claude Code, a IA dela adapta na hora, testa no computador dela e conta o que realmente funcionou:
